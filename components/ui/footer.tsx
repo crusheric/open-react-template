@@ -20,7 +20,9 @@ export default function Footer() {
                   </svg>
                 </Link>
               </div>
-              <div className="text-gray-400">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</div>
+              <div className="text-gray-400">CrushCompanion is a chat platform that provides AI Companions, AI Chatbots, and AI Girlfriends.
+
+</div>
             </div>
 
             {/* 2nd, 3rd and 4th blocks */}
@@ -28,60 +30,60 @@ export default function Footer() {
 
               {/* 2nd block */}
               <div className="text-sm">
-                <h6 className="text-gray-200 font-medium mb-1">Products</h6>
+                <h6 className="text-gray-200 font-medium mb-1">CrushCompanion</h6>
                 <ul>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Web Studio</Link>
+                    <Link href="https://crushes.notion.site/About-CRUSH-7734a7a579ba42e5984347f656def86c" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">About CRUSH</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">DynamicBox Flex</Link>
+                    <Link href="https://blog.crush.to" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Crush Comapnion Blog</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Programming Forms</Link>
+                    <Link href="https://www.crush.to/affiliate-program" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Crush Companion Affiliate</Link>
                   </li>
                 </ul>
               </div>
 
               {/* 3rd block */}
               <div className="text-sm">
-                <h6 className="text-gray-200 font-medium mb-1">Resources</h6>
+                <h6 className="text-gray-200 font-medium mb-1">Categories</h6>
                 <ul>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Nostrud exercitation</Link>
+                    <Link href="https://www.crush.to/categories/big-boobs" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Big Tits</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Visual mockups</Link>
+                    <Link href="https://www.crush.to/categories/spanking" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Spanking</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Nostrud exercitation</Link>
+                    <Link href="https://www.crush.to/categories/blonde-girls" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Blonde</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Visual mockups</Link>
+                    <Link href="https://www.crush.to/categories/lingerie" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Lingerie</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Nostrud exercitation</Link>
+                    <Link href="https://www.crush.to/categories/black-latex" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Latex</Link>
                   </li>
                 </ul>
               </div>
 
               {/* 4th block */}
               <div className="text-sm">
-                <h6 className="text-gray-200 font-medium mb-1">Company</h6>
+                <h6 className="text-gray-200 font-medium mb-1">AI Companions</h6>
                 <ul>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Consectetur adipiscing</Link>
+                    <Link href="https://www.crush.to/chat/141/celeste-pierce" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Celeste Pierce</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Labore et dolore</Link>
+                    <Link href="https://www.crush.to/chat/237/taylor-ortiz" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Taylor Ortiz</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Consectetur adipiscing</Link>
+                    <Link href="https://www.crush.to/chat/440/rebecca-talib" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Rebecca Talib</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Labore et dolore</Link>
+                    <Link href="https://www.crush.to/chat/185/kim-jin-ah" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Kim Jin-ah</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Consectetur adipiscing</Link>
+                    <Link href="https://www.crush.to/chat/385/keira-kelly" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Keira Kelly</Link>
                   </li>
                 </ul>
               </div>
@@ -135,7 +137,7 @@ export default function Footer() {
             </ul>
 
             {/* Copyrights note */}
-            <div className="text-gray-400 text-sm mr-4">&copy; Cruip.com. All rights reserved.</div>
+            <div className="text-gray-400 text-sm mr-4">&copy; CrushCompanion.com. All rights reserved.</div>
 
           </div>
 

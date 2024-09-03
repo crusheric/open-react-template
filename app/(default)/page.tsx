@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Home - Open PRO',
-  description: 'Page description',
+  title: 'CrushCompanion - Design Your AI Girlfriend and AI Companion & Start AI Sexting',
+  description: 'Customize your AI sexting girlfriend by shaping her appearance and personality with a single click to meet your AI sexting and erotic role play needs.',
 }
 
 import Hero from '@/components/hero'
@@ -16,7 +16,6 @@ export default function Home() {
       <Features />
       <Zigzag />
       <Testimonials />
-      <Newsletter />
     </>
   )
 }
